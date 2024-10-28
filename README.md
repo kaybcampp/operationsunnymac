@@ -1,9 +1,6 @@
 # operationsunnymac
  
-
-Here’s a README file that encapsulates your application’s purpose, functionality, and technical overview:
-
-Solar Estimator Project
+<b>Solar Estimator Project<b>
 Overview
 The Solar Estimator Project is an interactive web application built by Kayb Campbell specifically for the team at SunnyMac Solar. This application serves as a demonstration of my technical skills and as a potential solution to improve SunnyMac Solar's online user experience. Unlike traditional resumes, this project showcases my approach to addressing a real-world issue I encountered on SunnyMac’s website, where their existing “Design Your System” tool experienced errors, requiring users to fill out a form for follow-up. The Solar Estimator Project offers an automated, real-time estimation experience that is accurate and user-friendly.
 
