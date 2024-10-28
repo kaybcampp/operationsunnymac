@@ -47,9 +47,9 @@ function skipIntroAnimation() {
 
 function loadEstimatorLogic() {
     document.getElementById("content-box").innerHTML = `
-        ${loadNavBar("Estimation Logic")}
+        ${loadNavBar("Estimator Logic")}
         <div style="padding: 20px; max-width: 800px; margin: auto; background-color: rgba(0, 0, 0, 0.85); border-radius: 10px; box-shadow: 0px 0px 15px #00FF00;">
-            <h2 style="color: #00FF00; font-size: 1.6rem; text-align: center; margin-bottom: 20px;">Estimation Logic</h2>
+            <h2 style="color: #00FF00; font-size: 1.6rem; text-align: center; margin-bottom: 20px;">Estimator Logic</h2>
             <ul style="color: #00FF00; font-size: 1.2rem; line-height: 1.5; list-style-type: disc; padding-left: 20px;">
                 <li>Roof Size Calculation: Based on the home type, the total roof size is determined by multiplying the square footage by 1.15 for a single-story house, or 1.4 for a multi-story house.</li>
                 <li>Usable Roof Area: The usable area for solar panels is calculated by taking the total roof size and applying the percentage coverage desired by the user. Note: this is an optional entry field but will default to roughly 50% of the estimated roof size if left blank.</li>
