@@ -50,10 +50,3 @@ Open index.html in a web browser.
 Navigate through the pages using the navigation bar to explore each feature.
 Future Development
 If this project is selected, I am eager to expand its features, potentially integrating additional data sources, refining the UI, and implementing a real-time back-end server connection to fetch live data. I am also open to customizing the estimator based on specific requirements from SunnyMac Solar.
-
-Contact
-For any questions, feedback, or further discussion, please reach out:
-
-Email: campbellkaybriana@yahoo.com
-Phone: (302) 898-1430
-Thank you for taking the time to explore this project, and I look forward to the opportunity to contribute to SunnyMac Solar’s innovative team!
