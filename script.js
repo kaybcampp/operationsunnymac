@@ -117,8 +117,6 @@ function loadAboutMe() {
                 <p style="color: #00FF00; text-align: center;">
                     <a href="https://github.com/kaybcampp" target="_blank" style="color: #00FF00; text-decoration: underline;">GitHub Profile</a> | 
                     <a href="https://profile.indeed.com/p/kaybrianac-xg0k963" target="_blank" style="color: #00FF00; text-decoration: underline;">Resume</a><br>
-                    Email: <a href="mailto:campbellkaybriana@yahoo.com" style="color: #00FF00;">campbellkaybriana@yahoo.com</a><br>
-                    Phone: (302) 898-1430
                 </p>
             </div>
         </div>
